@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeeklyProjectEight</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="forget_password">Forget your password?</string>
+    <string name="or">OR</string>
+
+
+    <string name="facebook_app_id">863189708121088</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">6d39ecb57586073bc2c0b90f3a3d51de</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="home">Home</string>
+
+
+</resources>
